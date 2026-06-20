@@ -1,0 +1,272 @@
+@COLORS
+DATA "soy*",&HFF7448FF,#C_WHITE
+
+@LIST
+DATA 200,45,"たなびき{/あかペン}",6,10,6,10,0
+DATA "(soy*)","(soy*)"
+
+@F200
+DATA 220
+DATA "#SPEED","",180,0
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "#MOCHIKIND","BCDEF",1
+DATA "#L8"
+DATA "A bba   "
+DATA "b  b  b "
+DATA "A baa   "
+DATA "b  b  b "
+DATA "A aba   "
+DATA "b  b  b "
+DATA "A  a  a "
+DATA "A  a  a "
+DATA "#BPM",215
+DATA "A bba   "
+DATA "b  b  b "
+DATA "#BPM",210
+DATA "A bba   "
+DATA "#BPM",205
+DATA "b  b  b "
+DATA "#BPM",200
+DATA "A aba   "
+DATA "#BPM",180
+DATA "b  b  b "
+DATA "#BPM",160
+DATA "#ONPLIMIT",2
+DATA "@C",6,60,0,-1,-1,0,"C   "
+DATA "#L6","aaa"
+DATA "#BPM",140
+DATA "bbbbbb"
+DATA "#BPM",120
+DATA "#L4"
+DATA "C"
+DATA "#SPEED","",200,0
+DATA "       "
+DATA "#BPM",220
+DATA "@A",2,52,0,-1,-1,100
+DATA "   A","#L8","A"
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "@C",4,27,0,-1,-1,80
+DATA "@D",6,54,0,-1,-1,70
+DATA "@E",7,28,0,-1,-1,70
+DATA "#SPEED","F",210,0
+DATA "@F",1,48,-200,-1,-1,70
+DATA "#ONPLIMIT",1
+DATA " ba ab "
+DATA "a ba abb"
+DATA "#L4","aababbab"
+DATA "ddd ddd "
+DATA "#L8","bab b b "
+DATA "A bbb   "
+DATA "A a b   b aab   "
+DATA "a aa  a a a b   "
+DATA "a  ba   aab a a "
+DATA "A e e b E a B A "
+DATA "A ba  a a ba  b "
+DATA "a  b  b b a b   "
+DATA "a baa   aab a a "
+DATA "A b B a baa aab "
+DATA "#BPM",275
+DATA "#L1"," "
+DATA "#BPM",220
+DATA "@A",5,31,0,-1,-1,100
+DATA "#L4","abbabbabbabb"
+DATA "aabaabaababb"
+DATA "#BPM",225
+DATA "B  A  B  A  B  A  B  B  "
+DATA "#BPM",220
+DATA "Adad","#L8","a ad db "
+DATA "#L4","Aa"
+DATA "BB"
+DATA "#SPEED","F",210,0
+DATA "@F",1,48,-500,-1,-1,50
+DATA "#L12"
+DATA "A  a  b     b  a ab     "
+DATA "a  a a   a  a  a  b     "
+DATA "a    ba     a ab  a  a  "
+DATA "A  e  e  b  E  a  B  A  "
+DATA "A  b a   a  a  b a   b  "
+DATA "a    b   b  b  a  b     "
+DATA "a  b aa     a ab  a  a  "
+DATA "A  b  B  a  b aa  a ab  "
+DATA "#BPM",175
+DATA "#MOCHIKIND","F",0
+DATA "#L1"," "
+DATA "#BPM",240
+DATA "#SPEED","",200,0
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "#L8","A b  ba b  b ba "
+DATA "A b  ba b  b ba "
+DATA "A b  ba b  b ba "
+DATA "A b  ba b  b ba "
+DATA "#L4","   B"
+DATA "#L8","aaaabaaaaaaabaa aaaabaaaaaaabaa "
+DATA "@C",6,60,0,-1,-1,0,"C"
+DATA ""
+
+@F200EX
+DATA 220
+DATA "#SPEED","",110,0
+DATA "#ONPLIMIT",2
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "#MOCHIKIND","BCDEF",1
+DATA "#L8"
+DATA "A bbA bb"
+DATA "baabaaba"
+DATA "A baA ba"
+DATA "baabaaba"
+DATA "A abA ab"
+DATA "baabaaba"
+DATA "Baabbaba"
+DATA "Baabbaba"
+DATA "#BPM",215
+DATA "#L1","#SPEED","",100,4,"#L8"
+DATA "A bbA bb"
+DATA "baabaaba"
+DATA "#BPM",210
+DATA "A bbA bb"
+DATA "#BPM",205
+DATA "baabaaba"
+DATA "#BPM",200
+DATA "#L1","#SPEED","",60,4,"#L8"
+DATA "#SPEED","C",120,0
+DATA "#ONPLIMIT",3
+DATA "A abA ab"
+DATA "#BPM",180
+DATA "baabaaba"
+DATA "#BPM",160
+DATA "@C",6,60,0,-1,-1,0,"C   "
+DATA "#L6","aaa"
+DATA "#BPM",140
+DATA "bbbbbb"
+DATA "#BPM",120
+DATA "#L32"
+DATA "@C",1,256,2800,-1,-1,40,"c"
+DATA "@C",1,256,2900,-1,-1,30,"c"
+DATA "@C",1,22,3100,-1,-1,20,"c"
+DATA "     "
+DATA "#SPEED","",200,0
+DATA "#L4","       "
+DATA "#BPM",220
+DATA "#L48"
+DATA "#ONPLIMIT",2
+DATA "#SPEED","",0,40
+DATA "@A",5,31,0,-1,-1,0,"a  "
+DATA "@B",4,27,0,-1,-1,10,"b  "
+DATA "@B",4,27,0,-1,-1,20,"b  "
+DATA "@B",4,27,0,-1,-1,30,"b  "
+DATA "@B",4,27,0,-1,-1,40,"b   "
+DATA "@B",4,27,0,-1,-1,50,"b   "
+DATA "@B",4,27,0,-1,-1,60,"b   "
+DATA "@B",4,27,0,-1,-1,70,"b     "
+DATA "@B",4,27,0,-1,-1,80,"b     "
+DATA "@A",2,52,0,-1,-1,90,"A   "
+DATA "#SPEED","",220,0,"        "
+DATA "#L8"
+DATA "@A",2,52,0,-1,-1,100,"A"
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "@C",4,27,0,-1,-1,80
+DATA "@D",6,54,0,-1,-1,70
+DATA "@E",7,28,0,-1,-1,50
+DATA "#SPEED","F",300,0
+DATA "@F",1,48,-200,-1,-1,50
+DATA "cba abc"
+DATA "#ONPLIMIT",1
+DATA "#L16"
+DATA "A c b a A   ","#L12","bbb"
+DATA "#L4","AABA"
+DATA "BB","#L16","A c Bccc"
+DATA "#MOCHIKIND","C",0
+DATA "#L8","DcDcDcDc"
+DATA "DcDcDcDc"
+DATA "#MOCHIKIND","C",1
+DATA "Dab BaBa"
+DATA "#L16"
+DATA "#MOCHIKIND","B",0
+DATA "A ccB B B ccBccc"
+DATA "#MOCHIKIND","B",1
+DATA "#L8"
+DATA "A a b a B aab bb"
+DATA "A ba abaA a b ","#L16","bccc"
+DATA "#L8","A  ba aaAbaabaab"
+DATA "#MOCHIKIND","B",0
+DATA "AeebEebeEb","#MOCHIKIND","B",1
+DATA "#L16","aaa B   Aaaa","#L8"
+DATA "Abba ba A ba abb"
+DATA "A  b bb Baaab ","#L16","bccc"
+DATA "#L8","Aaba","#L16","a  b  b "
+DATA "#L8","Aab a a "
+DATA "AabaBbabBaabAab "
+DATA "#BPM",275
+DATA "#L24","f  f  f  f f f f f      "
+DATA "#BPM",220
+DATA "#SPEED","",220,0
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",4,27,0,-1,-1,60
+DATA "#L12","a  bbbb  a  bbbb  "
+DATA "a  bbbb  a  bbbb  "
+DATA "a  bbbb ba  bbbb b"
+DATA "a  bbbb ba  bbbbbb"
+DATA "#BPM",225
+DATA "#SPEED","",225,0
+DATA "a  ","#L24","bbb ","#L12","bb  "
+DATA "a  ","#L24","bbb ","#L12","bb  "
+DATA "a  ","#L24","bbb ","#L12","bb  "
+DATA "a  ","#L24","bbb ","#L12","bb  "
+DATA "a  ","#L24","bbb ","#L12","bb b"
+DATA "a  ","#L24","bbb ","#L12","bb b"
+DATA "a  ","#L24","bbb ","#L12","bb b"
+DATA "#ONPLIMIT",2
+DATA "a  ","#L24","bbb b bbbbbb"
+DATA "#BPM",220
+DATA "#SPEED","",150,0
+DATA "#L8","A d a d a ad d","#L24","bbbbbb"
+DATA "#L1","#SPEED","",220,1
+DATA "#L12","B aa","#L24"," bbb"
+DATA "@B",3,53,0,-1,-1,70
+DATA "#L4","BB"
+DATA "#SPEED","F",300,0
+DATA "@F",1,48,-500,-1,-1,50
+DATA "#ONPLIMIT",1
+DATA "Aaba","#L12","B  a ab  b b"
+DATA "A  b a  ab a","#L4","Aab","#L12","bcc"
+DATA "A    ba  a aA ba ab aa b"
+DATA "#MOCHIKIND","B",0
+DATA "A ee bE eb e"
+DATA "#MOCHIKIND","B",1
+DATA "#L24","E   b aaa   B     aaaaaa","#L12"
+DATA "A bb a  ba  A  b a  ab b"
+DATA "A    b  bb  B aa ab  ","#L24","cccccc","#L12"
+DATA "A ab a","#L6","abb","#L12","A ab  a  a  "
+DATA "A ab aB ba bB aa bA ab  "
+DATA "#BPM",175
+DATA "#SPEED","AB",240,0
+DATA "#MOCHIKIND","F",0
+DATA "#L24","f f f f f"   
+DATA "#L32"," ffffffffffff"
+DATA "       "
+DATA "#BPM",240
+DATA "@A",5,31,0,-1,-1,100
+DATA "@B",3,53,0,-1,-1,70
+DATA "#SPEED","",240,0
+DATA "#L8","A bbaab A bbaaab
+DATA "A bbaab A bbaba","#L16","aa"
+DATA "#L8","A bbaab A bbaa","#L16","aa a","#L8"
+DATA "A bbaab A bbab","#L16","aaaa"
+DATA "#L4","a  B"
+DATA "#L16"
+DATA "@B",3,53,0,-1,-1,80
+DATA "@C",4,27,0,-1,-1,80
+DATA "caaacaaabaaacaaacaaacaaabaaacaaa"
+DATA "caaacaaabaaacaaacaaacaaabaaacaaa"
+DATA "@B",6,60,0,-1,-1,0,"B"
+DATA ""
+
+@M200
+DATA ""
+DATA 0
+

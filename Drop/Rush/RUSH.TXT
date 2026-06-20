@@ -1,0 +1,157 @@
+@COLORS
+DATA "soy*",&HFF7447FF,#C_WHITE
+
+@LIST
+DATA 200,64,"Rush{/あんちもん}",6,10,6,10,0
+DATA "(soy*)","(soy*)"
+
+@F200
+DATA 180
+DATA "#MOCHIKIND","BCJK",1
+DATA "@A",3,52,0,-1,-1,-1
+DATA "@B",5,53,0,-1,-1,60
+DATA "@C",6,58,0,-1,-1,80
+DATA "@K",1,60,0,-1,-1,50
+@F200_1
+DATA "#L8"
+DATA "#MOCHIKIND","BC",1
+DATA "A c a bb"
+DATA "#MOCHIKIND","C",0
+DATA "C ba bab"
+DATA "#MOCHIKIND","C",1
+DATA "Aac A b "
+DATA "Caba bab"
+DATA "A ba aab"
+DATA "C ba bca"
+DATA "#RETURN"
+DATA "B aba C "
+DATA "B a abC "
+DATA "#GOSUB","1","2"
+@F200_2
+DATA "#ONPLIMIT",2
+DATA "#SPEED","IJK",150,0
+DATA "#MOCHIKIND","B",0
+DATA "Cacbc c "
+DATA "#MOCHIKIND","B",1
+DATA "C bbaaaa"
+DATA "@I",8,31,0,-1,-1,60
+DATA "@J",7,30,500,-1,-1,60
+@F200_3
+DATA "#L4"
+DATA "Iij "
+DATA "Ijj "
+DATA "Iijj"
+DATA "Iij#L8jj#L4"
+DATA "Iij "
+DATA "Ijj "
+DATA "#RETURN"
+DATA "Iijj"
+DATA "Ii"
+DATA "#SPEED","IJK",180,2
+DATA "j#L8jj#L4"
+DATA "@I",3,52,0,-1,-1,80
+DATA "@J",5,53,0,-1,-1,60
+DATA "#GOSUB","3","4"
+@F200_4
+DATA "#ONPLIMIT",1
+DATA "#SPEED","ABC",180,0
+DATA "#L2"
+DATA "KKKK"
+@F200_5
+DATA "#L8"
+DATA "#MOCHIKIND","C",0
+DATA "Abcba b "
+DATA "Abcba b "
+DATA "#MOCHIKIND","C",1
+DATA "C A abC "
+DATA "C A abC "
+DATA "Bacab c "
+DATA "Bacab cb"
+DATA "#RETURN"
+DATA "Cabacab "
+DATA "Cabacab "
+DATA "#GOSUB","5","6"
+@F200_6
+DATA "Cabababc"
+DATA "#L16"
+DATA "A  B  A  B  A C "
+DATA ""
+
+@F200EX
+DATA 180
+DATA "#MOCHIKIND","CJK",1
+DATA "@A",3,52,0,-1,-1,-1
+DATA "@B",5,53,0,-1,-1,50
+DATA "@C",6,58,0,58,-1,70
+DATA "@K",1,60,0,-1,-1,10
+@F200EX_1
+DATA "#MOCHIKIND","B",0
+DATA "#L16"
+DATA "A b C baCabaCaca"
+DATA "C aba Cabaa C b "
+DATA "A bac AacabaC c "
+DATA "C aaCbaa BaaCaba"
+DATA "#MOCHIKIND","B",1
+DATA "C a B ab ba C b "
+DATA "C aaC ab aa C b "
+DATA "#RETURN"
+DATA "B a Caa Caa b A "
+DATA "B a C ba aa C a "
+DATA "#GOSUB","1","2"
+@F200EX_2
+DATA "#ONPLIMIT",2
+DATA "#SPEED","IJK",90,0
+DATA "#MOCHIKIND","B",0
+DATA "C a C baC baC c "
+DATA "#MOCHIKIND","B",1
+DATA "C bababaaabbaaba"
+DATA "@I",8,31,0,-1,-1,60
+DATA "@J",7,30,500,-1,-1,60
+@F200EX_3
+DATA "#L8"
+DATA "I i Ji j"
+DATA " iJi jJi"
+DATA "IijJ Jii"
+DATA " jjiJj#L16iijj#L8"
+DATA "I jI iJi"
+DATA "JjiI jji"
+DATA "#RETURN"
+DATA "#L16"
+DATA "i J J i J J iiji"
+DATA "J  ij i "
+DATA "#SPEED","IJK",180,8
+DATA "Ij Ij i "
+DATA "@I",3,52,0,-1,-1,80
+DATA "@J",5,53,0,-1,-1,60
+DATA "#GOSUB","3","4"
+@F200EX_4
+DATA "#ONPLIMIT",1
+DATA "#SPEED","ABC",200,0
+DATA "#L2"
+DATA "KKKK"
+@F200EX_5
+DATA "#MOCHIKIND","B",1
+DATA "#L16"
+DATA "C a C ab ab C a "
+DATA "C bab Ba Ab C a "
+DATA "#MOCHIKIND","B",0
+DATA "C aaA Cb aa C a "
+DATA "#MOCHIKIND","B",1
+DATA "C bbA Bb aa C a "
+DATA "C a C ab ab C a "
+DATA "C acA bb AbbA aa"
+DATA "#RETURN"
+DATA "Cab AabC ba C a "
+DATA "C baBaaC ba C a "
+DATA "#GOSUB","5","6"
+@F200EX_6
+DATA "#MOCHIKIND","B",1
+DATA "Caa C baA ab ba "
+DATA "C bb aa BB AA C "
+DATA ""
+
+@M200
+DATA "#MML4"
+DATA ""
+
+
