@@ -1,5 +1,5 @@
 # [Sparebeat](https://sparebeat.com/)
-SuzukiBakeryが制作したブラウザ音楽ゲーム用の譜面。
+suzukibakeryが制作したブラウザ音楽ゲーム用の譜面。
 シミュレータで読み込むことができます。
 
 ※一部譜面は難易度表記の都合上、ファイルを編集するか、[BETAではないシミュレータ](https://sparebeat.com/simulator)でプレイする必要があります。
