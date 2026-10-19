@@ -11,3 +11,4 @@ na-trium-144が制作したブラウザ音楽ゲーム用の譜面。
 |[正露丸のラッパを激しくしてみた](123503_正露丸のラッパを激しくしてみた.fn.lua)|saradisk|Single-9||[123503](https://nikochan.utcode.net/share/123503?lang=ja)|
 |[ノーザンブルー・デイブリーズ](936338_ノーザンブルー・デイブリーズ.fn.lua)|みーにと琴葉葵|Single-8||[936338](https://nikochan.utcode.net/share/936338?lang=ja)|
 |[ドーピングダンス](972373_ドーピングダンス.fn.lua)|STEAKA feat. 初音ミク|Single-7||[972373](https://nikochan.utcode.net/share/972373?lang=ja)|
+|[Machine Love](279307_Machine%20Love.fn.lua)|Jamie Paige feat. Kasane Teto|Double-9||[279307](https://nikochan.utcode.net/share/279307?lang=ja)|
