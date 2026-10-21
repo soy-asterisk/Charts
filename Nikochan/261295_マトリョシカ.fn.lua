@@ -1,10 +1,10 @@
 require("fn-commands")
 return fnChart({
-  version = "1.0",
+  version = "1.1",
   offset = 1.2,
   ytId = "HOz-9FzIDf0",
   title = "マトリョシカ",
-  composer = "ハチ",
+  composer = "ハチ feat. 初音ミク・GUMI",
   chartCreator = "soy＊",
   zoom = 0,
   levels = {
