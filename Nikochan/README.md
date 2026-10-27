@@ -12,3 +12,4 @@ na-trium-144が制作したブラウザ音楽ゲーム用の譜面。
 |[ノーザンブルー・デイブリーズ](936338_ノーザンブルー・デイブリーズ.fn.lua)|みーにと琴葉葵|Single-8||[936338](https://nikochan.utcode.net/share/936338?lang=ja)|
 |[ドーピングダンス](972373_ドーピングダンス.fn.lua)|STEAKA feat. 初音ミク|Single-7||[972373](https://nikochan.utcode.net/share/972373?lang=ja)|
 |[Machine Love](279307_Machine%20Love.fn.lua)|Jamie Paige feat. Kasane Teto|Double-9||[279307](https://nikochan.utcode.net/share/279307?lang=ja)|
+|[AKAGE [赤毛]](592855_AKAGE%20[赤毛].fn.lua)|SmilyBruh feat. Kasane Teto|Maniac-11|縺医☆縺､繝ｼ縺ｧ繝ｼ(HOM)さんとの合作|[592855](https://nikochan.utcode.net/share/592855?lang=ja)|
