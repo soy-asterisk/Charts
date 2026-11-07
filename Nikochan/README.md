@@ -14,3 +14,4 @@ na-trium-144が制作したブラウザ音楽ゲーム用の譜面。
 |[Machine Love](279307_Machine%20Love.fn.lua)|Jamie Paige feat. Kasane Teto|Double-9||[279307](https://nikochan.utcode.net/share/279307?lang=ja)|
 |[AKAGE [赤毛]](592855_AKAGE%20[赤毛].fn.lua)|SmilyBruh feat. Kasane Teto|Maniac-11|縺医☆縺､繝ｼ縺ｧ繝ｼさんとの合作|[592855](https://nikochan.utcode.net/share/592855?lang=ja)|
 |[トランスダンスアナーキー](863959_トランスダンスアナーキー.fn.lua)|暁Records|Single-6||[863959](https://nikochan.utcode.net/share/863959?lang=ja)|
+|[ふぁんぶる！](727306_ふぁんぶる！.fn.lua)|藤原ハガネ feat. 重音テトSV|Single-10<br>Double-12||[727306](https://nikochan.utcode.net/share/727306?lang=ja)|
